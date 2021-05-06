@@ -1,5 +1,5 @@
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
-## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com ou leleb.souza@yahoo.com.br 
+## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com 
 
 ### CARACTERÍSTICAS PESSOAIS
 Prezando sempre a pontualidade, determinação, organização, responsabilidade, empatia, paciência e foco. Me adapto à novas situações com facilidade e sou boa em trabalhar com pessoas e lídar com documentos,  números e atividades burocráticas organizacionais. 
