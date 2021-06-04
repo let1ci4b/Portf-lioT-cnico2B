@@ -4,8 +4,8 @@
 echo "Digite um numero"
 read num
 if [ $num -lt 0 ]
-  then
+then
   echo "$num e negativo"
-  else 
+else 
   echo "$num e positivo"
 fi
