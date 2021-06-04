@@ -6,6 +6,6 @@ read num
 if [ $num -lt 0 ]
   then
   echo "$num e negativo"
-else 
-echo "$num e positivo"
+  else 
+  echo "$num e positivo"
 fi
