@@ -1,6 +1,6 @@
 **Exemplos:**
 
-[exemplo vetor](Portf-lioT-cnico2B/FundamentosTI/exemplos/vetor3.sh)
+[exemplo vetor](FundamentosTI/exemplos/vetor3.sh)
 
 [exemplo for](Portf-lioT-cnico2B/FundamentosTI/exemplos/script7.sh)
 
