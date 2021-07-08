@@ -2,11 +2,11 @@
 
 [exemplo vetor](FundamentosTI/exemplos/vetor3.sh)
 
-[exemplo for](Portf-lioT-cnico2B/FundamentosTI/exemplos/script7.sh)
+[exemplo for](FundamentosTI/exemplos/script7.sh)
 
-[exemplo while](Portf-lioT-cnico2B/FundamentosTI/exemplos/script4.sh)
+[exemplo while](FundamentosTI/exemplos/script4.sh)
 
-[exemplo if else](Portf-lioT-cnico2B/FundamentosTI/exemplos/script2.sh)
+[exemplo if else](FundamentosTI/exemplos/script2.sh)
 
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
 ## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com 
