@@ -1,8 +1,11 @@
 **Exemplos:**
 
 [exemplo vetor](Portf-lioT-cnico2B/FundamentosTI/exemplos/vetor3.sh)
+
 [exemplo for](Portf-lioT-cnico2B/FundamentosTI/exemplos/script7.sh)
+
 [exemplo while](Portf-lioT-cnico2B/FundamentosTI/exemplos/script4.sh)
+
 [exemplo if else](Portf-lioT-cnico2B/FundamentosTI/exemplos/script2.sh)
 
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
