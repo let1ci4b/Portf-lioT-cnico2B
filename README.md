@@ -10,6 +10,10 @@
 
 [exemplo com arq](FundamentosTI/exemplos/newscript3.sh)
 
+[script avaliação 1](FundamentosTI/exemplos/script1av.sh)
+
+[script avaliação 2](FundamentosTI/exemplos/script2av.sh)
+
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
 ## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com 
 
