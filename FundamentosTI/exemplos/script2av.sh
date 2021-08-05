@@ -1,5 +1,6 @@
 # Autora: Letícia Beatriz Souza
-# Descrição: Fazer um script para imprimir a lista de frutas com seus respectivos preços, em ordem alfabética.
+# Descrição: Faça um script que me retorne todos os nomes dos usuários do sistema. (Até os que não são seres humanos)
 #!/bin/bash
-var=$(cut -d" " -f1 /etc/passwd)
-echo "$var"
+var=$(cut -d: -f1 /etc/passwd)
+echo "Os usuários do sistema são:"
+echo $var
