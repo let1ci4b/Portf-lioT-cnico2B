@@ -14,6 +14,10 @@
 
 [script2 avaliação](FundamentosTI/exemplos/script2av.sh)
 
+[exemplo estrutura de condição (if else)](FundamentosTI/exemplos/scriptrevisao1.sh)
+
+[exemplo estrutura de repetição (while)](FundamentosTI/exemplos/scriptrevisao2.sh)
+
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
 ## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com 
 
