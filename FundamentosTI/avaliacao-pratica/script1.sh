@@ -1,6 +1,5 @@
 # Autora: Letícia Beatriz Souza
 # Descrição: Fazer um script que retorne todos os nomes dos usuários do sistema que não são humanos.
-
 #!/bin/bash
 val=$(cut -d":" -f3 /etc/passwd)
 num_user=0
