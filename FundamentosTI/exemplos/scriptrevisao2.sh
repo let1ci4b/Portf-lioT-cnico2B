@@ -1,5 +1,6 @@
+# Autora: Letícia Beatriz Souza
+# Descrição: Fazer um script com estrutura de repetição.
 #!/bin/bash
- 
 echo "digite um numero"
 read num
 i=1
