@@ -1,3 +1,5 @@
+# Autora: Letícia Beatriz Souza
+# Descrição: Fazer um script com estrutura de condição.
 #!/bin/bash
 echo "digite um número"
 read num
