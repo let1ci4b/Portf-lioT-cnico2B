@@ -18,7 +18,7 @@
 
 [exemplo estrutura de repetição (while)](FundamentosTI/exemplos/scriptrevisao2.sh)
 
-[diretorio avaliacao](FundamentosTI/avaliacao-pratica)
+[diretório avaliação](FundamentosTI/avaliacao-pratica)
 
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
 ## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com 
@@ -40,7 +40,7 @@ Domínio básico do Linux;
 
 Conhecimento básico de progrmação em JAVA;
 
-Domínio das ferramentas word, paint, power point, google sites, canva, powtoon, pixton, picsart e mídias sociais em geral;
+Domínio das ferramentas word, paint, power point, excel, google sites, canva, powtoon, pixton, picsart e mídias sociais em geral;
 
 Edição de fotos e vídeos.
 
