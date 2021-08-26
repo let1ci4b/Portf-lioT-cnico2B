@@ -1,3 +1,6 @@
+# Autora: Letícia Beatriz souza
+# Descrição: Código para calcular idade
+
 import javax.swing.JOptionPane;
 
 
