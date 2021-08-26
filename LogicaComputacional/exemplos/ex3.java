@@ -1,3 +1,6 @@
+# Autora: Letícia Beatriz souza
+# Descrição: Código para jogar (calcula quem ganhou baseado no menor númemro de cartas que você ou o adversário tem)
+
 import javax.swing.JOptionPane;
 
 class Main{
