@@ -20,7 +20,7 @@ FUNDAMENTOS DE TI
 
 [exemplo estrutura de repetição (while)](FundamentosTI/exemplos/scriptrevisao2.sh)
 
-[diretorio avaliacao](FundamentosTI/avaliacao-pratica)
+[diretório avaliação](FundamentosTI/avaliacao-pratica)
 
 LÓGICA COMPUTACIONAL
 
@@ -52,7 +52,7 @@ Domínio básico do Linux;
 
 Conhecimento básico de progrmação em JAVA;
 
-Domínio das ferramentas word, paint, power point, google sites, canva, powtoon, pixton, picsart e mídias sociais em geral;
+Domínio das ferramentas word, paint, power point, excel, google sites, canva, powtoon, pixton, picsart e mídias sociais em geral;
 
 Edição de fotos e vídeos.
 

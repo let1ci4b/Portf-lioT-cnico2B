@@ -1,3 +1,5 @@
+# Autora: Letícia Beatriz souza
+# Descrição: Código para criar vetores
 
 import javax.swing.JOptionPane;
 class Main {
