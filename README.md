@@ -1,5 +1,7 @@
 **Exemplos:**
 
+FUNDAMENTOS DE TI
+
 [exemplo vetor](FundamentosTI/exemplos/vetor3.sh)
 
 [exemplo for](FundamentosTI/exemplos/script7.sh)
@@ -19,6 +21,16 @@
 [exemplo estrutura de repetição (while)](FundamentosTI/exemplos/scriptrevisao2.sh)
 
 [diretorio avaliacao](FundamentosTI/avaliacao-pratica)
+
+LÓGICA COMPUTACIONAL
+
+[código cálculo de juros](LogicaComputacional/exemplos/ex1.java)
+
+[código criação de vetor](LogicaComputacional/exemplos/ex2.java)
+
+[código jogo de cartas](LogicaComputacional/exemplos/ex3.java)
+
+[código cálculo de idade](LogicaComputacional/exemplos/ex4.java)
 
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
 ## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com 
