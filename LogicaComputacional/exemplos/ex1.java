@@ -1,3 +1,6 @@
+#Autora: Letícia Beatriz souza
+#Descrição: Código para calcular juros simples e compostos
+
 public static void programa(){
         double m = 0;
         double j = 0;
