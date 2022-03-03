@@ -33,15 +33,13 @@ LÓGICA COMPUTACIONAL
 [código cálculo de idade](LogicaComputacional/exemplos/ex4.java)
 
 # CURRICULUM LETÍCIA BEATRIZ SOUZA
-## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Assis Brasil, 4852 - São José-SC - C.E.P: 88104200 | Telefone: (48)996862073 - E-Mail: leth4852@gmail.com 
+## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Ariena 85 - Palhoça-SC - C.E.P: 88132276 | Telefone: (48)996862073 - E-Mail: leticia_b_souza@estudante.sc.senai.br 
 
 ### CARACTERÍSTICAS PESSOAIS
-Prezando sempre a pontualidade, determinação, organização, responsabilidade, empatia, paciência e foco. Me adapto à novas situações com facilidade e sou boa em trabalhar com pessoas e lídar com documentos,  números e atividades burocráticas organizacionais. 
+Prezando sempre a pontualidade, determinação, organização, responsabilidade, empatia, paciência e foco. Me adapto à novas situações com facilidade e sou boa em lídar com situações complicadas, encontrar soluções rápidas e objetivas, trabalhar com pessoas e lídar com atividades burocráticas organizacionais. 
 
 ### FORMAÇÃO ACADÊMICA
-Cursando - 1° ano do Curso Técnico em Desenvolvimento de Sistemas (1° semestre)
-
-Cursando - 2° ano do Ensino Médio na Escola S (1° semestre)
+Cursando 3° ano do Ensino Médio integrado ao Curso Técnico de Desenvolvimento de Sistemas na Escola S (1° semestre)
 
 Ensino fundamental II no Centro Educacional Roda Pião (2016-2019)
 
@@ -50,13 +48,15 @@ Conhecimento básico de hardwares e softwares;
 
 Domínio básico do Linux;
 
-Conhecimento básico de progrmação em JAVA;
+Conhecimento médio de progrmação em JAVA e SQL;
 
-Domínio das ferramentas word, paint, power point, excel, google sites, canva, powtoon, pixton, picsart e mídias sociais em geral;
+Domínio das ferramentas word, paint, power point, excel, google sites, canva, diagrams, powtoon, pixton, picsart e mídias sociais em geral;
 
 Edição de fotos e vídeos.
 
 ### IDIOMAS
 Inglês - Nível intermediário;
 
-Espanhol - Nível básico.
+Espanhol - Nível intermediário;
+
+Japonês - Nível básico.
