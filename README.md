@@ -36,23 +36,37 @@ LÓGICA COMPUTACIONAL
 ## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Ariena 85 - Palhoça-SC - C.E.P: 88132276 | Telefone: (48)996862073 - E-Mail: leticia_b_souza@estudante.sc.senai.br 
 
 ### CARACTERÍSTICAS PESSOAIS
+
 Prezando sempre a pontualidade, determinação, organização, responsabilidade, empatia, paciência e foco. Me adapto à novas situações com facilidade e sou boa em lídar com situações complicadas, encontrar soluções rápidas e objetivas, trabalhar com pessoas e lídar com atividades burocráticas organizacionais. 
 
 ### FORMAÇÃO ACADÊMICA
-Cursando 3° ano do Ensino Médio integrado ao Curso Técnico de Desenvolvimento de Sistemas na Escola S (1° semestre)
 
-Ensino fundamental II no Centro Educacional Roda Pião (2016-2019)
+2016 - 2019 • Centro Educacional Roda Pião Ensino fundamental II 
+
+Cursando • Escola S
+3° ano do Ensino Médio integrado ao Curso Técnico de Desenvolvimento de Sistemas (1° semestre)
 
 ### HABILIDADES
-Conhecimento básico de hardwares e softwares;
 
-Domínio básico do Linux;
+Design Gráfico
 
-Conhecimento médio de progrmação em JAVA e SQL;
+Edição de imagens e vídeos
 
-Domínio das ferramentas word, paint, power point, excel, google sites, canva, diagrams, powtoon, pixton, picsart e mídias sociais em geral;
+Criação de Layout
 
-Edição de fotos e vídeos.
+Criação de apresentações
+
+Criação de planilhas e gráficos 
+
+Domínio médio de programação em Java e SQL
+
+Domínio básico do sistema operacional Linux
+
+Domínio do sistema operacional Windows
+
+Domínio básico de hardwares e softwares
+
+Conhecimento médio sobre investimentos
 
 ### IDIOMAS
 Inglês - Nível intermediário;
