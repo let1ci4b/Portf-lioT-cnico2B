@@ -1,4 +1,65 @@
-**Exemplos:**
+# PotfolioTecnico3B
+
+### **BANCO DE DADOS**
+
+
+PRIMEIRO TRIMESTRE
+
+[Database: loja de roupas](BancoDeDados/DatabaseLojaRoupas)
+
+[Diagrama: loja de roupas](BancoDeDados/DiagramaLojaRoupas.png)
+
+[Database: zoológico](BancoDeDados/DatabaseZoologico)
+
+[Diagrama: zoológico](BancoDeDados/DiagramaZoologico.png)
+
+[Tabela mercado e função de aumento](BancoDeDados/FuncaoTabelaMercado)
+
+
+SEGUNDO TRIMESTRE
+
+
+TERCEIRO TRIMESTRE
+
+
+
+
+### **MODELAGEM DE SISTEMAS**
+
+
+PRIMEIRO TRIMESTRE
+
+[Diagrama de classes do sistema para presídio](ModelagemDeSistemas/DiagramaClassesPresidio.png)
+
+[Modelagem do sistema para presídio em java](https://replit.com/@let1ci4b/Presidio#Funcionario.java)
+
+[Diagrama de classes do APP para ônibus](ModelagemDeSistemas/DiagramaClassesAppOnibus.png)
+
+[Modelagem do sistema do APP para ônibus em java](https://replit.com/@let1ci4b/AppOnibus#App.java)
+
+
+SEGUNDO TRIMESTRE
+
+
+TERCEIRO TRIMESTRE
+
+
+### **PROGRAMAÇÃO DE APLICATIVOS**
+
+
+PRIMEIRO TRIMESTRE
+
+[Aplicativo - Calculadora de geometria espacial](ProgramacaoDeAplicativo/AppGeometriaEspacial.7z)
+
+[Aplicativo - Calculadora de horários](ProgramacaoDeAplicativo/AppCalculadoraHorarios.zip)
+
+
+SEGUNDO TRIMESTRE
+
+
+TERCEIRO TRIMESTRE
+
+# PotfolioTecnico2B
 
 FUNDAMENTOS DE TI
 
