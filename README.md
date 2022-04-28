@@ -61,7 +61,7 @@ TERCEIRO TRIMESTRE
 
 # PotfolioTecnico2B
 
-FUNDAMENTOS DE TI
+### **FUNDAMENTOS DE TI**
 
 [exemplo vetor](FundamentosTI/exemplos/vetor3.sh)
 
@@ -83,7 +83,7 @@ FUNDAMENTOS DE TI
 
 [diretório avaliação](FundamentosTI/avaliacao-pratica)
 
-LÓGICA COMPUTACIONAL
+### **LÓGICA COMPUTACIONAL**
 
 [código cálculo de juros](LogicaComputacional/exemplos/ex1.java)
 
