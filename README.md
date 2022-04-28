@@ -27,13 +27,13 @@ TERCEIRO TRIMESTRE
 
 PRIMEIRO TRIMESTRE
 
-[Diagrama de classes do sistema para presídio](ModelagemDeSistemas/DiagramaClassesPresidio.png)
+[Diagrama de classes do sistema para presídio](ModelagemDeSistemas/DiagramaClassesPresidio.png) -> Considero esta atividade muito interessante e completa, pois agregou muito nos meus conhecimentos sobre as relações e herança entre classes e estruturação dos métodos, além de desenvolver meu pensamento em raciocínio acerca da criação de classes, métodos e atributos necessários para um bom funcionamento do sistema. Através dessa modelagem, pude compreender mais sobre a estruturação de sistemas maiores por meio de um exemplo real, contribuindo para aumentar minha experiência em modelar sistemas que podem ser aplicados em situações reais.
 
-[Modelagem do sistema para presídio em java](https://replit.com/@let1ci4b/Presidio#Funcionario.java)
+[Modelagem do sistema para presídio em java](https://replit.com/@let1ci4b/Presidio#Funcionario.java) -> Ao transformar a modelagem em java do diagrama de classes para o presídio, pude aprender a estruturar as heranças e criar métodos de vários retornos diferentes, conseguindo esclarecer minhas dúvidas sobre o assunto e transformar umm diagrama em uma base de código funcional.
 
-[Diagrama de classes do APP para ônibus](ModelagemDeSistemas/DiagramaClassesAppOnibus.png)
+[Diagrama de classes do APP para ônibus](ModelagemDeSistemas/DiagramaClassesAppOnibus.png) -> Com o desenvolvimento deste diagrama, aprendi a modelar sistemas maiores e mais complexos, e sob pressão, uma vez que foi uma atividade avaliativa, consegui juntar todos os meus conhecimentos adquiridos nas aulas para criar um sistema totalmente sozinha, o que também contribuiu um pouco para a minha independência na criação deles e em uma utilização maior da minha criatividade para tentar criar algo funcional, interessante e útil.
 
-[Modelagem do sistema do APP para ônibus em java](https://replit.com/@let1ci4b/AppOnibus#App.java)
+[Modelagem do sistema do APP para ônibus em java](https://replit.com/@let1ci4b/AppOnibus#App.java) -> A modelagem do sistema do APP para ônibus em java, ajudou-me a conseguir organizar e estruturar projetos maiores e de forma  mais rápida, aprendendo a lidar melhor com o tempo e desenvolver melhor os métodos e ligações.
 
 
 SEGUNDO TRIMESTRE
@@ -47,11 +47,11 @@ TERCEIRO TRIMESTRE
 
 PRIMEIRO TRIMESTRE
 
-[Aplicativo - Calculadora de geometria espacial](ProgramacaoDeAplicativo/AppGeometriaEspacial.7z)
+[Aplicativo - Calculadora de geometria espacial](ProgramacaoDeAplicativo/AppGeometriaEspacial.7z) -> Escolhi esse projeto, pois foi um dos primeiros concluídos, contribuindo, para mim, para uma melhor percepção acerca dos conceitos básicos e estruturação do código de um aplicativo. Com ele, consegui aprender a fazer o sistema realizar contas, por meio de fórmulas, entre outras funções. 
 
-[Aplicativo - Calculadora de horários](ProgramacaoDeAplicativo/AppCalculadoraHorarios.zip)
+[Aplicativo - Calculadora de horários](ProgramacaoDeAplicativo/AppCalculadoraHorarios.zip) -> Nesse aplicativo, apesar de também terem sido realizadas contas, ele também contribuiu para um melhor entendimento, para mim, em relação a isso, desenvolvendo meu raciocínio para chegar ao objetivo do código. 
 
-[Aplicativo - Jogar dados](ProgramacaoDeAplicativo/AppJogarDados.7z)
+[Aplicativo - Jogar dados](ProgramacaoDeAplicativo/AppJogarDados.7z) -> Para esse projeto, tivemos que aprender outras funções e caminhos que podemos seguir ao fazer os códigos, como a utilização do 'Random'. Sendo assim, contribuiu para meu entendimento sobre novos conceitos e aperfeiçoamento dos antigos, novamente desenvolvendo meu raciocínio lógico.
 
 
 SEGUNDO TRIMESTRE
