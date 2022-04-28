@@ -47,9 +47,9 @@ TERCEIRO TRIMESTRE
 
 PRIMEIRO TRIMESTRE
 
-[Aplicativo - Calculadora de geometria espacial](ProgramacaoDeAplicativo/AppGeometriaEspacial.7z) -> Escolhi esse projeto, pois foi um dos primeiros concluídos, contribuindo, para mim, para uma melhor percepção acerca dos conceitos básicos e estruturação do código de um aplicativo. Com ele, consegui aprender a fazer o sistema realizar contas, por meio de fórmulas, entre outras funções. 
+[Aplicativo - Calculadora de geometria espacial](ProgramacaoDeAplicativo/AppGeometriaEspacial.7z) -> Escolhi esse projeto, pois foi um dos primeiros concluídos, contribuindo, para mim, para uma melhor percepção acerca dos conceitos básicos e estruturação do código de um aplicativo. Com ele, consegui aprender a fazer o sistema trocar de tela, realizar contas por meio de fórmulas de geometria espacial, entre outras funções. 
 
-[Aplicativo - Calculadora de horários](ProgramacaoDeAplicativo/AppCalculadoraHorarios.zip) -> Nesse aplicativo, apesar de também terem sido realizadas contas, ele também contribuiu para um melhor entendimento, para mim, em relação a isso, desenvolvendo meu raciocínio para chegar ao objetivo do código. 
+[Aplicativo - Calculadora de horários](ProgramacaoDeAplicativo/AppCalculadoraHorarios.zip) -> Nesse aplicativo, também foram realizadas contas. Ele contribuiu para um melhor entendimento, para mim, em relação a isso, desenvolvendo meu raciocínio e demandando grande esforço para chegar ao objetivo do código. 
 
 [Aplicativo - Jogar dados](ProgramacaoDeAplicativo/AppJogarDados.7z) -> Para esse projeto, tivemos que aprender outras funções e caminhos que podemos seguir ao fazer os códigos, como a utilização do 'Random'. Sendo assim, contribuiu para meu entendimento sobre novos conceitos e aperfeiçoamento dos antigos, novamente desenvolvendo meu raciocínio lógico.
 
