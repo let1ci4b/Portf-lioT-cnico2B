@@ -5,15 +5,15 @@
 
 PRIMEIRO TRIMESTRE
 
-[Database: loja de roupas](BancoDeDados/DatabaseLojaRoupas)
+[Database: loja de roupas](BancoDeDados/DatabaseLojaRoupas.sql)
 
 [Diagrama: loja de roupas](BancoDeDados/DiagramaLojaRoupas.png)
 
-[Database: zoológico](BancoDeDados/DatabaseZoologico)
+[Database: zoológico](BancoDeDados/DatabaseZoologico.sql)
 
 [Diagrama: zoológico](BancoDeDados/DiagramaZoologico.png)
 
-[Tabela mercado e função de aumento](BancoDeDados/FuncaoTabelaMercado)
+[Tabela mercado e função de aumento](BancoDeDados/FuncaoTabelaMercado.sql)
 
 
 SEGUNDO TRIMESTRE
