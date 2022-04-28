@@ -41,3 +41,5 @@ $$ language PLPGSQL;
 *ATULIZANDO VALORES NA TABELA UTILIZANDO A FUNÇÃO AUMENTO*
 
 UPDATE mercado SET preco = aumento(preco)
+
+---------------------------------------------------------------
