@@ -5,23 +5,21 @@
 
 PRIMEIRO TRIMESTRE
 
-[Database: loja de roupas](BancoDeDados/DatabaseLojaRoupas.sql)
+[Database: loja de roupas](BancoDeDados/DatabaseLojaRoupas.sql) -> Desempenhou um papel importante para meu aperfeiçoamento na criação dos códigos, ajudando-me a entender melhor sobre ordem de criação das tabelas e chaves primárias e estrangeiras, bem como desenvolvendo meu raciocínio sobre os tipos de variáveis e os códigos de alteração da tabela. 
 
-[Diagrama: loja de roupas](BancoDeDados/DiagramaLojaRoupas.png)
+[Diagrama: loja de roupas](BancoDeDados/DiagramaLojaRoupas.png) -> Contribuiu muito com meu aprendizado sobre o desenvolvimento de diagramas para bancos de dados, esclarecendo dúvidas sobre relações, formas normais e estruturação de um bd.
 
-[Database: zoológico](BancoDeDados/DatabaseZoologico.sql)
+[Database: zoológico](BancoDeDados/DatabaseZoologico.sql) -> Agregou muito no desenvolvimento das minhas habilidades de organização de códigos e estruturação. Com a criação desse Database, pude adquirir alguma experiência na criação de grandes projetos de forma divertida, clara e complexa.
 
-[Diagrama: zoológico](BancoDeDados/DiagramaZoologico.png)
+[Diagrama: zoológico](BancoDeDados/DiagramaZoologico.png) -> Com a criação desse diagrama, aprendi mais sobre como modelar grandes bancos, fazer as ligações entre tabelas, criar or atributos, tabelas e chaves necessárias para o funcionamento de um sistema mais complexo. Além disso, pude experienciar o trabalho em equipe e a consequenteos discordância entre pontos de vistas, visto que a ideia central do diagrama foi decida em conjunto com toda a turma, aprendendo mais sobre como encontrar soluções práticas e desenvolver projetos em grupos.
 
-[Tabela mercado e função de aumento](BancoDeDados/FuncaoTabelaMercado.sql)
+[Tabela mercado e função de aumento](BancoDeDados/FuncaoTabelaMercado.sql) -> Este projeto foi escolhido, pois envolve o conteúdo sobre criação de tabelas, e também de funções dentro do sql. Interessei-me muito por este conteúdo, pois ele torna possível realizar ações com os bancos de dados, simplificando a resolução de situações, como fazer contas ou encontrar dados específicos, uma vez que torna as coisas mais práticas.
 
 
 SEGUNDO TRIMESTRE
 
 
 TERCEIRO TRIMESTRE
-
-
 
 
 ### **MODELAGEM DE SISTEMAS**
