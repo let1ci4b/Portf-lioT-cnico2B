@@ -53,6 +53,8 @@ PRIMEIRO TRIMESTRE
 
 [Aplicativo - Calculadora de horários](ProgramacaoDeAplicativo/AppCalculadoraHorarios.zip)
 
+[Aplicativo - Jogar dados](ProgramacaoDeAplicativo/AppJogarDados.7z)
+
 
 SEGUNDO TRIMESTRE
 
