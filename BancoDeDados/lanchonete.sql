@@ -1,9 +1,7 @@
-GRUPO: ESTER, EMANUELLE E LETÍCIA
-TEMA: LANCHONETE
-DATA: 14/07/2022
-----------------------------------
+# Autoras: Letícia Beatriz Souza, Emanuelle Luize Tomczyk e Ester Silva
+# Descrição: Criando um Database para uma lanchonete.
+# Tabelas: FILIAL, FORNECEDOR, PRODUTO, ESTOQUE, FUNCIONARIO E COMPRA
 
-CRIANDO TABELA FILIAL:
 create table filial(
 	cod varchar primary key,
 	nome varchar,
@@ -11,7 +9,8 @@ create table filial(
 	estado varchar
 );
 
-CRIANDO TABELA FORNECEDOR:
+----------------------------------------------
+
 create table fornecedor(
 	cnpj varchar primary key,
 	nome varchar,
@@ -20,7 +19,8 @@ create table fornecedor(
 	produto varchar
 );
 
-CRIANDO TABELA PRODUTO:
+----------------------------------------------
+
 create table produto(
 	codigo_produto serial primary key,
 	data_compra varchar,
@@ -33,7 +33,8 @@ create table produto(
 	foreign key (cod_fornecedor) references fornecedor (cnpj)
 );
 
-CRIANDO TABELA ESTOQUE:
+----------------------------------------------
+
 create table estoque(
       cod_prod int,
       cod_filial varchar,
@@ -41,7 +42,8 @@ create table estoque(
      foreign key (cod_filial) references filial (cod)
 );
 
-CRIANDO TABELA FUNCIONARIO_LANCHONETE:
+----------------------------------------------
+
 create table Funcionarios_lanchonete(
 	pis varchar primary key,
 	nome varchar,
@@ -52,7 +54,8 @@ create table Funcionarios_lanchonete(
 	foreign key (cod_filial) references filial (cod)
 );
 
-CRIANDO TABELA COMPRA:
+----------------------------------------------
+
 create table compra(
 	cpf_cliente varchar primary key,
 	data_compra varchar,
