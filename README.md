@@ -18,7 +18,7 @@ PRIMEIRO TRIMESTRE
 
 SEGUNDO TRIMESTRE
 
-[Sistema de Banco de Dados: Lanchonete](BancoDeDados/lanchonete.zip) ->
+[Sistema de Banco de Dados: Lanchonete](BancoDeDados/lanchonete.zip) / [Database: Lanchonete](BancoDeDados/lanchonete.sql) / [Diagrama: Lanchonete](BancoDeDados/lanchonete.png) ->
 
 [Sistema de Banco de Dados: Animais](BancoDeDados/pets.zip) ->
 
