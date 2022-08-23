@@ -46,6 +46,8 @@ SEGUNDO TRIMESTRE
 
 [Projeto teste vocacional (SA)](ModelagemDeSistemas/Animal_Teste_.zip) -> 
 
+[Pitch do projeto do app "HAPPY WORLD"](ModelagemDeSistemas/PitchHappyWorld) -> 
+
 
 TERCEIRO TRIMESTRE
 
@@ -65,6 +67,8 @@ PRIMEIRO TRIMESTRE
 SEGUNDO TRIMESTRE
 
 [Projeto teste vocacional (SA)](ProgramacaoDeAplicativo/Animal_Teste_.zip) -> 
+
+[Projeto teste vocacional (SA)](ProgramacaoDeAplicativo/Teste_Fumator.zip) -> 
 
 
 TERCEIRO TRIMESTRE
