@@ -13,14 +13,14 @@ PRIMEIRO TRIMESTRE
 
 [Diagrama: zoológico](BancoDeDados/DiagramaZoologico.png) -> Com a criação desse diagrama, aprendi mais sobre como modelar grandes bancos, fazer as ligações entre tabelas, criar or atributos, tabelas e chaves necessárias para o funcionamento de um sistema mais complexo. Além disso, pude experienciar o trabalho em equipe e a consequenteos discordância entre pontos de vistas, visto que a ideia central do diagrama foi decida em conjunto com toda a turma, aprendendo mais sobre como encontrar soluções práticas e desenvolver projetos em grupos.
 
-[Tabela mercado e função de aumento](BancoDeDados/FuncaoTabelaMercado.sql) -> Este projeto foi escolhido, pois envolve o conteúdo sobre criação de tabelas, e também de funções dentro do sql. Interessei-me muito por este conteúdo, pois ele torna possível realizar ações com os bancos de dados, simplificando a resolução de situações, como fazer contas ou encontrar dados específicos, uma vez que torna as coisas mais práticas.
+[Tabela mercado e função de aumento](BancoDeDados/FuncaoTabelaMercado.sql) -> Este projeto envolve o conteúdo sobre criação de tabelas, e também de funções dentro do sql. Interessei-me muito por este conteúdo, pois ele torna possível realizar ações com os bancos de dados, simplificando a resolução de situações, como fazer contas ou encontrar dados específicos, uma vez que torna as coisas mais práticas.
 
 
 SEGUNDO TRIMESTRE
 
-[Sistema de Banco de Dados: Lanchonete](BancoDeDados/lanchonete.zip) / [Database: Lanchonete](BancoDeDados/lanchonete.sql) / [Diagrama: Lanchonete](BancoDeDados/lanchonete.png) ->
+[Sistema de Banco de Dados: Lanchonete](BancoDeDados/lanchonete.zip) / [Database: Lanchonete](BancoDeDados/lanchonete.sql) / [Diagrama: Lanchonete](BancoDeDados/lanchonete.png) ->  Este é o projeto de conclusão da matéria de Bancos de Dados e contribui muito com meu aprendizado sobre a estruturação, planejamento e desenvolvimento de um banco de dado funcional, com recursos e interface que interage com o usuário e com um database.
 
-[Sistema de Banco de Dados: Animais](BancoDeDados/pets.zip) ->
+[Sistema de Banco de Dados: Animais](BancoDeDados/pets.zip) -> Com este projeto pude aprimorar e praticar o desenvolvimento de um sistema de Banco de Dados com interação entre usuário e database, compreendendo melhor sobre a aplicação real de um Banco e criação de uma interface gráfica relacionada à outros elementos e funções.
 
 [Sistema de Banco de Dados: Cadastro](BancoDeDados/Cadastro.zip) ->
 
