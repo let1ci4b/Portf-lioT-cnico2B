@@ -44,9 +44,9 @@ PRIMEIRO TRIMESTRE
 
 SEGUNDO TRIMESTRE
 
-[Projeto teste vocacional (SA)](ModelagemDeSistemas/Animal_Teste_.zip) -> 
+[Projeto - Teste vocacional (SA)](ModelagemDeSistemas/Animal_Teste_.zip) -> 
 
-[Pitch do projeto do app "HAPPY WORLD"](https://drive.google.com/file/d/1KDgzCj2bxldqLJerVBjRu2uPslVeZkGT/view?usp=sharing) -> 
+[Pitch - Aplicativo "HAPPY WORLD"](https://drive.google.com/file/d/1KDgzCj2bxldqLJerVBjRu2uPslVeZkGT/view?usp=sharing) -> 
 
 
 TERCEIRO TRIMESTRE
@@ -66,9 +66,9 @@ PRIMEIRO TRIMESTRE
 
 SEGUNDO TRIMESTRE
 
-[Projeto teste vocacional (SA)](ProgramacaoDeAplicativo/Animal_Teste_.zip) -> 
+[Projeto - Teste vocacional (SA)](ProgramacaoDeAplicativo/Animal_Teste_.zip) -> 
 
-[Aplicativo para controle do uso de cigarro: FUMATOR](ProgramacaoDeAplicativo/Teste_Fumator.zip) -> 
+[Aplicativo - Controle do uso de cigarro: FUMATOR](ProgramacaoDeAplicativo/Teste_Fumator.zip) -> 
 
 
 TERCEIRO TRIMESTRE
