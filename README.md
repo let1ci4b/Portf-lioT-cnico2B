@@ -112,14 +112,14 @@ TERCEIRO TRIMESTRE
 
 ### CARACTERÍSTICAS PESSOAIS
 
-Prezando sempre a pontualidade, determinação, organização, responsabilidade, empatia, paciência e foco. Me adapto à novas situações com facilidade e sou boa em lídar com situações complicadas, encontrar soluções rápidas e objetivas, trabalhar com pessoas e lídar com atividades burocráticas organizacionais. 
+Prezando sempre a pontualidade, determinação, organização, responsabilidade, empatia, paciência e foco. Me adapto à novas situações com facilidade e sou boa em lídar com situações complicadas, encontrar soluções rápidas e objetivas, trabalhar com pessoas e lídar com atividades organizacionais. 
 
 ### FORMAÇÃO ACADÊMICA
 
 2016 - 2019 • Centro Educacional Roda Pião Ensino fundamental II 
 
 Cursando • Escola S
-3° ano do Ensino Médio integrado ao Curso Técnico de Desenvolvimento de Sistemas (1° semestre)
+3° ano do Ensino Médio integrado ao Curso Técnico de Desenvolvimento de Sistemas (2° semestre)
 
 ### HABILIDADES
 
@@ -133,6 +133,10 @@ Criação de apresentações
 
 Criação de planilhas e gráficos 
 
+Desenvolvimento de aplicativos em Java
+
+Desenvolvimento de softwares integrados à Bancos de Dados em Java
+
 Domínio médio de programação em Java e SQL
 
 Domínio básico do sistema operacional Linux
@@ -141,11 +145,8 @@ Domínio do sistema operacional Windows
 
 Domínio básico de hardwares e softwares
 
-Conhecimento médio sobre investimentos
 
 ### IDIOMAS
 Inglês - Nível intermediário;
 
 Espanhol - Nível intermediário;
-
-Japonês - Nível básico.
