@@ -22,7 +22,7 @@ SEGUNDO TRIMESTRE
 
 [Sistema de Banco de Dados: Animais](BancoDeDados/pets.zip) -> Com este projeto pude aprimorar e praticar o desenvolvimento de um sistema de Banco de Dados com interação entre usuário e database, compreendendo melhor sobre a aplicação real de um Banco e criação de uma interface gráfica relacionada à outros elementos e funções.
 
-[Sistema de Banco de Dados: Cadastro](BancoDeDados/Cadastro.zip) ->
+[Sistema de Banco de Dados: Cadastro](BancoDeDados/Cadastro.zip) -> Atividade introdutória sobre a implementação de um Database em um sistema que interage com o usuário. Ao desenvolver essa atividade pude compreender os requisitos funcionais que esse tipo de programa necessita, bem como aprender a importar bibliotecas, criar uma interface gráfica para esse sistema e desevolvê-lo a fim de torná-lo totalmente funcional e útil.
 
 
 TERCEIRO TRIMESTRE
