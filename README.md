@@ -129,6 +129,8 @@ Edição de imagens e vídeos
 
 Criação de Layout
 
+Elaboração de protótipos para sistemas
+
 Criação de apresentações
 
 Criação de planilhas e gráficos 
