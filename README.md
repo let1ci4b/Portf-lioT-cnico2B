@@ -18,9 +18,9 @@ PRIMEIRO TRIMESTRE
 
 SEGUNDO TRIMESTRE
 
-[Sistema de Banco de Dados: Lanchonete](BancoDeDados/lanchonete.zip) / [Database: Lanchonete](BancoDeDados/lanchonete.sql) / [Diagrama: Lanchonete](BancoDeDados/lanchonete.png) ->  Este é o projeto de conclusão da matéria de Bancos de Dados e contribui muito com meu aprendizado sobre a estruturação, planejamento e desenvolvimento de um banco de dado funcional, com recursos e interface que interage com o usuário e com um database.
+[Sistema de Banco de Dados: Lanchonete](BancoDeDados/lanchonete.zip) / [Database: Lanchonete](BancoDeDados/lanchonete.sql) / [Diagrama: Lanchonete](BancoDeDados/lanchonete.png) ->  Este é o projeto de conclusão da matéria de Bancos de Dados e contribui muito com meu aprendizado sobre a estruturação, planejamento e desenvolvimento de um Banco de Dados funcional, com recursos e interface que interage com o usuário e com um Database e adaptam-se à necessidade do cliente.
 
-[Sistema de Banco de Dados: Animais](BancoDeDados/pets.zip) -> Com este projeto pude aprimorar e praticar o desenvolvimento de um sistema de Banco de Dados com interação entre usuário e database, compreendendo melhor sobre a aplicação real de um Banco e criação de uma interface gráfica relacionada à outros elementos e funções.
+[Sistema de Banco de Dados: Animais](BancoDeDados/pets.zip) -> Com este projeto pude aprimorar e praticar o desenvolvimento de um sistema de Banco de Dados com interação entre usuário e d=database, compreendendo melhor sobre a aplicação real de um Banco e criação de uma interface gráfica relacionada à outros elementos e funções.
 
 [Sistema de Banco de Dados: Cadastro](BancoDeDados/Cadastro.zip) -> Atividade introdutória sobre a implementação de um Database em um sistema que interage com o usuário. Ao desenvolver essa atividade pude compreender os requisitos funcionais que esse tipo de programa necessita, bem como aprender a importar bibliotecas, criar uma interface gráfica para esse sistema e desevolvê-lo a fim de torná-lo totalmente funcional e útil.
 
@@ -44,10 +44,10 @@ PRIMEIRO TRIMESTRE
 
 SEGUNDO TRIMESTRE
 
-[Projeto - Teste vocacional (SA)](ModelagemDeSistemas/Animal_Teste_.zip) -> 
+[Projeto - Teste vocacional (SA)](ModelagemDeSistemas/Animal_Teste_.zip) -> Durante o planejamento e desenvolvimento deste sistema, o qual consiste em um aplicativo que oferece a possibilidade do usuário fazer um dos 9 testes vocacionais desenvolvidos, pude expandir meu conhecimento acerca de inúmeros aspectos. Nesse cenário, pode-se destacar a etapa de desvolvimento do sistema, determinando características que inlcuem seus requisitos, objetivos e formas de desenvolvê-los que precisam ser pensadas para que o app possa funcionar e cumprir a função desejada, criando seu protótipo, interface gráfica e parte lógica baseada em suas interações com outros sistemas. Todos esses aspectos são responsáveis para a criação de versões do software que cumpram as expectativas determinadas e que sofrerão futuros aprimoramentos. Dessa forma, pude melhorar diversas habilidades técnicas e, também, aprender mais sobre trabalho em grupo e colaboração em projetos.
 
-[Pitch - Aplicativo "HAPPY WORLD"](https://drive.google.com/file/d/1KDgzCj2bxldqLJerVBjRu2uPslVeZkGT/view?usp=sharing) -> 
-
+[Pitch - Aplicativo "HAPPY WORLD"](https://drive.google.com/file/d/1KDgzCj2bxldqLJerVBjRu2uPslVeZkGT/view?usp=sharing) -> A elaboração desse vídeo pitch diz respeito à apresentação de um projeto que encontra-se em desenvolvimento. O projeto em questão é um aplicativo chamado "HAPPY WORLD", que tem como objetivo induzir as pessoas à 
+adotarem um estilo de vida mais sustentável, sendo um canal direto para que o usuário encontre informações sobre a situação atual do nosso planeta, bem como sobre seus impactos de consumo sobre este através de uma análise de estilo de vida, encontrando, também, soluções para seus desvios ecológicos. Dessa forma, o vídeo introdutório em anexo apresenta o protótipo, os objetivos, requisitos e o modelo de negócios do sistema, a fim de divulgar as bases do projeto.
 
 TERCEIRO TRIMESTRE
 
@@ -66,9 +66,9 @@ PRIMEIRO TRIMESTRE
 
 SEGUNDO TRIMESTRE
 
-[Projeto - Teste vocacional (SA)](ProgramacaoDeAplicativo/Animal_Teste_.zip) -> 
+[Projeto - Teste vocacional (SA)](ProgramacaoDeAplicativo/Animal_Teste_.zip) -> Durante o planejamento e desenvolvimento deste sistema, o qual consiste em um aplicativo que oferece a possibilidade do usuário fazer um dos 9 testes vocacionais desenvolvidos, pude expandir meu conhecimento acerca de inúmeros aspectos. Nesse cenário, pode-se destacar a etapa de desvolvimento do sistema, determinando características que inlcuem seus requisitos, objetivos e formas de desenvolvê-los que precisam ser pensadas para que o app possa funcionar e cumprir a função desejada, criando seu protótipo, interface gráfica e parte lógica baseada em suas interações com outros sistemas. Todos esses aspectos são responsáveis para a criação de versões do software que cumpram as expectativas determinadas e que sofrerão futuros aprimoramentos. Dessa forma, pude melhorar diversas habilidades técnicas e, também, aprender mais sobre trabalho em grupo e colaboração em projetos.
 
-[Aplicativo - Controle do uso de cigarro: FUMATOR](ProgramacaoDeAplicativo/Teste_Fumator.zip) -> 
+[Aplicativo - Controle do uso de cigarro: FUMATOR](ProgramacaoDeAplicativo/Teste_Fumator.zip) -> Através do desenvolvimento deste aplicativo, o qual objetiva controlar e alertar o usuário acerca do uso de cigarro, pude desenvolver meu raciocínio e, também, meus conhecimentos sobre associação com Bancos de Dados. Esse foi um projeto desafiador, no qual encontramos muitos problemas de execução, mas que serviu como aprendizado para um melhor planejamento de futuros projetos. 
 
 
 TERCEIRO TRIMESTRE
