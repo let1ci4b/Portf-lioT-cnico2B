@@ -25,9 +25,6 @@ SEGUNDO TRIMESTRE
 [Sistema de Banco de Dados: Cadastro](BancoDeDados/Cadastro.zip) -> Atividade introdutória sobre a implementação de um Database em um sistema que interage com o usuário. Ao desenvolver essa atividade pude compreender os requisitos funcionais que esse tipo de programa necessita, bem como aprender a importar bibliotecas, criar uma interface gráfica para esse sistema e desevolvê-lo a fim de torná-lo totalmente funcional e útil.
 
 
-TERCEIRO TRIMESTRE
-
-
 ### **MODELAGEM DE SISTEMAS**
 
 
@@ -62,6 +59,9 @@ SEGUNDO TRIMESTRE
 
 
 TERCEIRO TRIMESTRE
+
+[Aplicativo - Urna](ProgramacaoDeAplicativo/urnaj.zip) ->
+[Aplicativo - Calculadora de determinante de uma matriz](ProgramacaoDeAplicativo/matrizl.zip) ->
 
 
 ### **DESENVOLVIMENTO DE SISTEMAS**
