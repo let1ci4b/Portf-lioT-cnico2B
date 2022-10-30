@@ -60,9 +60,9 @@ SEGUNDO TRIMESTRE
 
 TERCEIRO TRIMESTRE
 
-[Aplicativo - Urna](ProgramacaoDeAplicativo/urnaj.zip) ->
+[Aplicativo - Urna](ProgramacaoDeAplicativo/urnaj.zip) -> O aplicativo em questão diz respeito a um sistema de urna com ligação com banco de dados (firebase). Seus objetivos envolvem: possibilitar que o usuário vote apenas uma vez (vinculando o voto ao CPF), conferir as informações do candidato antes de confirmar o voto e registrar todos os votos em um banco de dados. O desenvolvimento desse app, proporcionou-me mais noções acerca da manipulação do banco de dados Firebase Realtime Database, aumentando meu conhecimento sobre conexões e uso de atributos registrados neste. Além disso, a fixação do uso de estruturas de looping e tratamentos de exceções também foram cruciais para este sistema, auxiliando o raciocínio lógico.
 
-[Aplicativo - Calculadora de determinante de uma matriz](ProgramacaoDeAplicativo/matrizl.zip) ->
+[Aplicativo - Calculadora de determinante de uma matriz](ProgramacaoDeAplicativo/matrizl.zip) -> Este sistema objetiva calcular o determinante de uma matriz 3x3 definida pelo usuário. Sendo assim, durante seu desenvolvimento pude conhecer os vetores de matriz e aprender a manipulá-los de diversas formas, colaborando com a melhora das minhas habilidades e conhecimentos técnicos, programando o projeto para realizar cálculos e interagir com os usuários.
 
 
 ### **DESENVOLVIMENTO DE SISTEMAS**
@@ -81,7 +81,7 @@ TERCEIRO TRIMESTRE
 
 TERCEIRO TRIMESTRE 
 
-[Documentação de testes - Aplicativo que calcula o determinante da matriz](TesteDeSistemas/teste-matriz.pdf) -> 
+[Documentação de testes - Aplicativo que calcula o determinante da matriz](TesteDeSistemas/teste-matriz.pdf) -> Esta é uma documentação acerca de testes de sistemas realizados com um aplicativo autoral que objetiva calcular o determinante de uma matriz. Através da elaboração da tal, pude compreender e conhecer todos os diferentes documentos diagnósticos envolvidos no teste completo de um sistema, bem como suas funções específicas e o passo a passo desde o planejamento da execução destes testes, até a os seus resultados finais.
 
 # PotfolioTecnico2B
 
