@@ -61,6 +61,7 @@ SEGUNDO TRIMESTRE
 TERCEIRO TRIMESTRE
 
 [Aplicativo - Urna](ProgramacaoDeAplicativo/urnaj.zip) ->
+
 [Aplicativo - Calculadora de determinante de uma matriz](ProgramacaoDeAplicativo/matrizl.zip) ->
 
 
@@ -80,6 +81,7 @@ TERCEIRO TRIMESTRE
 
 TERCEIRO TRIMESTRE 
 
+[Documentação de testes - Aplicativo que calcula o determinante da matriz](TestesDeSistemas/teste de sistema) -> 
 
 # PotfolioTecnico2B
 
