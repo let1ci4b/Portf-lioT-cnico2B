@@ -81,7 +81,7 @@ TERCEIRO TRIMESTRE
 
 TERCEIRO TRIMESTRE 
 
-[Documentação de testes - Aplicativo que calcula o determinante da matriz](TestesDeSistemas/teste-matriz.pdf) -> 
+[Documentação de testes - Aplicativo que calcula o determinante da matriz](TesteDeSistemas/teste-matriz.pdf) -> 
 
 # PotfolioTecnico2B
 
