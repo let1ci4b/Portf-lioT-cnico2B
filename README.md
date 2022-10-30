@@ -42,16 +42,6 @@ PRIMEIRO TRIMESTRE
 [Modelagem do sistema do APP para ônibus em java](https://replit.com/@let1ci4b/AppOnibus#App.java) -> A modelagem do sistema do APP para ônibus em java, ajudou-me a conseguir organizar e estruturar projetos maiores e de forma  mais rápida, aprendendo a lidar melhor com o tempo e desenvolver melhor os métodos e ligações.
 
 
-SEGUNDO TRIMESTRE
-
-[Projeto - Teste vocacional (SA)](ModelagemDeSistemas/Animal_Teste_.zip) -> Durante o planejamento e desenvolvimento deste sistema, o qual consiste em um aplicativo que oferece a possibilidade do usuário fazer um dos 9 testes vocacionais desenvolvidos, pude expandir meu conhecimento acerca de inúmeros aspectos. Nesse cenário, pode-se destacar a etapa de desvolvimento do sistema, determinando características que inlcuem seus requisitos, objetivos e formas de desenvolvê-los que precisam ser pensadas para que o app possa funcionar e cumprir a função desejada, criando seu protótipo, interface gráfica e parte lógica baseada em suas interações com outros sistemas. Todos esses aspectos são responsáveis para a criação de versões do software que cumpram as expectativas determinadas e que sofrerão futuros aprimoramentos. Dessa forma, pude melhorar diversas habilidades técnicas e, também, aprender mais sobre trabalho em grupo e colaboração em projetos.
-
-[Pitch - Aplicativo "HAPPY WORLD"](https://drive.google.com/file/d/1KDgzCj2bxldqLJerVBjRu2uPslVeZkGT/view?usp=sharing) -> A elaboração desse vídeo pitch diz respeito à apresentação de um projeto que encontra-se em desenvolvimento. O projeto em questão é um aplicativo chamado "HAPPY WORLD", que tem como objetivo induzir as pessoas à 
-adotarem um estilo de vida mais sustentável, sendo um canal direto para que o usuário encontre informações sobre a situação atual do nosso planeta, bem como sobre seus impactos de consumo sobre este através de uma análise de estilo de vida, encontrando, também, soluções para seus desvios ecológicos. Dessa forma, o vídeo introdutório em anexo apresenta o protótipo, os objetivos, requisitos e o modelo de negócios do sistema, a fim de divulgar as bases do projeto.
-
-TERCEIRO TRIMESTRE
-
-
 ### **PROGRAMAÇÃO DE APLICATIVOS**
 
 
@@ -72,6 +62,24 @@ SEGUNDO TRIMESTRE
 
 
 TERCEIRO TRIMESTRE
+
+
+### **TESTES DE SISTEMAS**
+
+TERCEIRO TRIMESTRE 
+
+### **DESENVOLVIMENTO DE SISTEMAS**
+
+SEGUNDO TRIMESTRE
+
+[Projeto - Teste vocacional (SA)](ModelagemDeSistemas/Animal_Teste_.zip) -> Durante o planejamento e desenvolvimento deste sistema, o qual consiste em um aplicativo que oferece a possibilidade do usuário fazer um dos 9 testes vocacionais desenvolvidos, pude expandir meu conhecimento acerca de inúmeros aspectos. Nesse cenário, pode-se destacar a etapa de desvolvimento do sistema, determinando características que inlcuem seus requisitos, objetivos e formas de desenvolvê-los que precisam ser pensadas para que o app possa funcionar e cumprir a função desejada, criando seu protótipo, interface gráfica e parte lógica baseada em suas interações com outros sistemas. Todos esses aspectos são responsáveis para a criação de versões do software que cumpram as expectativas determinadas e que sofrerão futuros aprimoramentos. Dessa forma, pude melhorar diversas habilidades técnicas e, também, aprender mais sobre trabalho em grupo e colaboração em projetos.
+
+[Pitch - Aplicativo "HAPPY WORLD"](https://drive.google.com/file/d/1KDgzCj2bxldqLJerVBjRu2uPslVeZkGT/view?usp=sharing) -> A elaboração desse vídeo pitch diz respeito à apresentação de um projeto que encontra-se em desenvolvimento. O projeto em questão é um aplicativo chamado "HAPPY WORLD", que tem como objetivo induzir as pessoas à 
+adotarem um estilo de vida mais sustentável, sendo um canal direto para que o usuário encontre informações sobre a situação atual do nosso planeta, bem como sobre seus impactos de consumo sobre este através de uma análise de estilo de vida, encontrando, também, soluções para seus desvios ecológicos. Dessa forma, o vídeo introdutório em anexo apresenta o protótipo, os objetivos, requisitos e o modelo de negócios do sistema, a fim de divulgar as bases do projeto.
+
+
+TERCEIRO TRIMESTRE
+
 
 # PotfolioTecnico2B
 
