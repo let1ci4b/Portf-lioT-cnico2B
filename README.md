@@ -75,13 +75,13 @@ SEGUNDO TRIMESTRE
 adotarem um estilo de vida mais sustentável, sendo um canal direto para que o usuário encontre informações sobre a situação atual do nosso planeta, bem como sobre seus impactos de consumo sobre este através de uma análise de estilo de vida, encontrando, também, soluções para seus desvios ecológicos. Dessa forma, o vídeo introdutório em anexo apresenta o protótipo, os objetivos, requisitos e o modelo de negócios do sistema, a fim de divulgar as bases do projeto.
 
 
-TERCEIRO TRIMESTRE
-
 ### **TESTES DE SISTEMAS**
 
 TERCEIRO TRIMESTRE 
 
 [Documentação de testes - Aplicativo que calcula o determinante da matriz](TesteDeSistemas/teste-matriz.pdf) -> Esta é uma documentação acerca de testes de sistemas realizados com um aplicativo autoral que objetiva calcular o determinante de uma matriz. Através da elaboração da tal, pude compreender e conhecer todos os diferentes documentos diagnósticos envolvidos no teste completo de um sistema, bem como suas funções específicas e o passo a passo desde o planejamento da execução destes testes, até a os seus resultados finais.
+
+[Documentação de testes - Aplicativo que calcula o determinante da matriz](TesteDeSistemas/implantaçaoemanutençaodesistemas_happyworld.pdf) -> Esses documentos referenciam os planos de implantanção e manutenção do sistema "HappyWorld", desenvolvido na disciplina de desenvolvimento de sistemas. Tal confecção contribuiu com o meu conhecimento a cerca da parte técnica de planejamento de um projeto, bem como com noções da comunicação cliente e desenvolvedor. Além disso, pude compreender melhor como reunir todos os pontos necessários para a elaboração de um sistema e para suas consequentes manutenções e testes de desempenho.
 
 # PotfolioTecnico2B
 
