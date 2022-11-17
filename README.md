@@ -64,7 +64,8 @@ TERCEIRO TRIMESTRE
 
 [Aplicativo - Calculadora de determinante de uma matriz](ProgramacaoDeAplicativo/matrizl.zip) -> Este sistema objetiva calcular o determinante de uma matriz 3x3 definida pelo usuário. Sendo assim, durante seu desenvolvimento pude conhecer os vetores de matriz e aprender a manipulá-los de diversas formas, colaborando com a melhora das minhas habilidades e conhecimentos técnicos, programando o projeto para realizar cálculos e interagir com os usuários.
 
-[Autoria - ChooseMe](ProgramacaoDeAplicativo/ChooseMe(1).pdf) ->
+[Autoria - ChooseMe](ProgramacaoDeAplicativo/ChooseMe(1).pdf) -> Esta autoria é um protótipo de aplicativo que está participando do Desafio Senai de Projetos Integradores (DSPI) como solução para "Facilitar o contato entre artistas e estabelecimentos", atualmente na segunda fase. No desenvolvimento deste projeto, pude utilizar e relacionar diversas habilidades adquiridas durante o Curso Técnico. Sendo assim, modelamos o app e estamos desenvolvendo o protótipo mais completo possível antes de entregá-lo para a seleção desta segunda fase: reparando inconsistências, promovendo melhorias, complementando as soluções, projetando sua viabilidade financeira, entre outros processos envolvidos no planejamento de um produto. Essa autoria também contribuiu muito para o desenvolvimento do raciocínio lógico e capacidade de trabalho em equipe, desenvolvendo, além de conhecimentos, habilidades pessoais.
+
 [Protótipo - ChooseMe](https://www.figma.com/file/DmcnJa6cYAmqRO7dpPRtLF/Apresenta%C3%A7%C3%A3o?t=FwPQwyNqDQfoITDV-1)
 
 
@@ -79,7 +80,8 @@ adotarem um estilo de vida mais sustentável, sendo um canal direto para que o u
 
 TERCEIRO TRIMESTRE
 
-[Autoria - ChooseMe](DesenvolvimentoDeSistemas/ChooseMe(1).pdf) ->
+[Autoria - ChooseMe](DesenvolvimentoDeSistemas/ChooseMe(1).pdf) -> Esta autoria é um protótipo de aplicativo que está participando do Desafio Senai de Projetos Integradores (DSPI) como solução para "Facilitar o contato entre artistas e estabelecimentos", atualmente na segunda fase. No desenvolvimento deste projeto, pude utilizar e relacionar diversas habilidades adquiridas durante o Curso Técnico. Sendo assim, modelamos o app e estamos desenvolvendo o protótipo mais completo possível antes de entregá-lo para a seleção desta segunda fase: reparando inconsistências, promovendo melhorias, complementando as soluções, projetando sua viabilidade financeira, entre outros processos envolvidos no planejamento de um produto. Essa autoria também contribuiu muito para o desenvolvimento do raciocínio lógico e capacidade de trabalho em equipe, desenvolvendo, além de conhecimentos, habilidades pessoais.
+
 [Protótipo - ChooseMe](https://www.figma.com/file/DmcnJa6cYAmqRO7dpPRtLF/Apresenta%C3%A7%C3%A3o?t=FwPQwyNqDQfoITDV-1)
 
 
@@ -91,7 +93,8 @@ TERCEIRO TRIMESTRE
 
 [Documentação de testes - Aplicativo que calcula o determinante da matriz](TesteDeSistemas/implantaçaoemanutençaodesistemas_happyworld.pdf) -> Esses documentos referenciam os planos de implantanção e manutenção do sistema "HappyWorld", desenvolvido na disciplina de desenvolvimento de sistemas. Tal confecção contribuiu com o meu conhecimento a cerca da parte técnica de planejamento de um projeto, bem como com noções da comunicação cliente e desenvolvedor. Além disso, pude compreender melhor como reunir todos os pontos necessários para a elaboração de um sistema e para suas consequentes manutenções e testes de desempenho.
 
-[Autoria - ChooseMe](TesteDeSistemas/ChooseMe(1).pdf) ->
+[Autoria - ChooseMe](TesteDeSistemas/ChooseMe(1).pdf) -> Esta autoria é um protótipo de aplicativo que está participando do Desafio Senai de Projetos Integradores (DSPI) como solução para "Facilitar o contato entre artistas e estabelecimentos", atualmente na segunda fase. No desenvolvimento deste projeto, pude utilizar e relacionar diversas habilidades adquiridas durante o Curso Técnico. Sendo assim, modelamos o app e estamos desenvolvendo o protótipo mais completo possível antes de entregá-lo para a seleção desta segunda fase: reparando inconsistências, promovendo melhorias, complementando as soluções, projetando sua viabilidade financeira, entre outros processos envolvidos no planejamento de um produto. Essa autoria também contribuiu muito para o desenvolvimento do raciocínio lógico e capacidade de trabalho em equipe, desenvolvendo, além de conhecimentos, habilidades pessoais.
+
 [Protótipo - ChooseMe](https://www.figma.com/file/DmcnJa6cYAmqRO7dpPRtLF/Apresenta%C3%A7%C3%A3o?t=FwPQwyNqDQfoITDV-1)
 
 # PotfolioTecnico2B
