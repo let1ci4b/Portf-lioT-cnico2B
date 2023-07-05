@@ -147,8 +147,6 @@ Cursando • Escola S
 
 ### HABILIDADES
 
-Design Gráfico
-
 Edição de imagens e vídeos
 
 Criação de Layout
@@ -165,11 +163,8 @@ Desenvolvimento de softwares integrados à Bancos de Dados em Java
 
 Domínio médio de programação em Java e SQL
 
-Domínio básico do sistema operacional Linux
-
 Domínio do sistema operacional Windows
 
-Domínio básico de hardwares e softwares
 
 
 ### IDIOMAS
