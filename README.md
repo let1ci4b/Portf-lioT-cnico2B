@@ -131,40 +131,6 @@ TERCEIRO TRIMESTRE
 
 [código cálculo de idade](LogicaComputacional/exemplos/ex4.java)
 
-# CURRICULUM LETÍCIA BEATRIZ SOUZA
-## Nascida em Florianópolis-SC em 15/10/2005 | Residente à Rua Ariena 85 - Palhoça-SC - C.E.P: 88132276 | Telefone: (48)996862073 - E-Mail: leticia_b_souza@estudante.sc.senai.br 
-
-### CARACTERÍSTICAS PESSOAIS
-
-Prezando sempre a pontualidade, determinação, organização, responsabilidade, empatia, paciência e foco. Me adapto à novas situações com facilidade e sou boa em lídar com situações complicadas, encontrar soluções rápidas e objetivas, trabalhar com pessoas e lídar com atividades organizacionais. 
-
-### FORMAÇÃO ACADÊMICA
-
-2016 - 2019 • Centro Educacional Roda Pião Ensino fundamental II 
-
-Cursando • Escola S
-3° ano do Ensino Médio integrado ao Curso Técnico de Desenvolvimento de Sistemas (2° semestre)
-
-### HABILIDADES
-
-Edição de imagens e vídeos
-
-Criação de Layout
-
-Elaboração de protótipos para sistemas
-
-Criação de apresentações
-
-Criação de planilhas e gráficos 
-
-Desenvolvimento de aplicativos em Java
-
-Desenvolvimento de softwares integrados à Bancos de Dados em Java
-
-Domínio médio de programação em Java e SQL
-
-Domínio do sistema operacional Windows
-
 
 
 ### IDIOMAS
